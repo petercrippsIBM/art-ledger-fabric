@@ -4,6 +4,6 @@ These instruction follow on from those in this [repository](https://github.com/p
 
 * [Step 1: Install Prerequisites](docs/InstallPrerequisites.md)
 * [Step 2: Install Samples, Binaries and Docker Images](docs/InstallSamples)
-* [Step 3: Start and Stop the Fabric Network](docs/StartStopNetwork.md)
+* [Step 3: Start and Stop the Fabric Network](docs/StartStopFabric.md)
 * [Step 4: Install and Run Art-Ledger on a Local Fabric Network](docs/InstallRunLocalFabric.md)
 * [Step 5: Install and Run Art-Ledger on IBM Cloud Starter Plan](docs/InstallRunIBMCloud.md)
