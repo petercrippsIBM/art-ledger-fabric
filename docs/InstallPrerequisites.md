@@ -18,3 +18,5 @@ Next you need to install Node, Docker and Go development tools if you haven’t 
 * go - v1.11 Darwin/amd64
 
 To find the version of a program type <program-name> --version into the terminal.
+
+Now go to [Step 2: Install Samples, Binaries and Docker Images](../docs/InstallSamples).
