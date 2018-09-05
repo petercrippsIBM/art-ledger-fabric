@@ -1,5 +1,4 @@
 # Building Your First Hyperledger Network on IBM Cloud Using Hyperledger Fabric
-These instructions describe how to get **Art-Ledger** running on a Hyperledger Fabric network, first on a local Docker install then on the IBM Cloud Blockchain Network Starter Plan.
 
 These instruction follow on from those in this [repository](https://github.com/petercrippsIBM/art-ledger) where I describe how to build the **Art-Ledger** blockchain network using Hyperledger Composer. Here, rather than using Composer, we will work with chaincode written directly in Go and install it ourselves first on a Fabric network which you run on your local machine using Docker then on the IBM Blockchain Platform Starter Plan (for which you will need a subscription).
 
