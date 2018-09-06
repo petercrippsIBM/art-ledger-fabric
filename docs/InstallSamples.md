@@ -39,6 +39,13 @@ To bring down the network enter the following command:
 ./byfn.sh down
 ```
 
+To clean up the environment completely run the following commands to kill any stale or active containers, clear any cached networks and (if you’ve already run through this tutorial) delete the underlying chaincode image for the `fabcar` smart contract.
+```
+$ docker rm -f $(docker ps -aq)
+$ docker network prune
+$ docker rmi dev-peer0.org1.example.com-fabcar-1.0-5c906e402ed29f20260ae42283216aa75549c571e2e380f3615826365d8269ba
+```
+
 To learn more about the underlying tooling and bootstrap mechanics look at the detailed instructions which can be found [here](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html).
 
 Now go to [Step 3: Test the First Network](../docs/TestFirstNetwork.md)
