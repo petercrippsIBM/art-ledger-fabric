@@ -1,5 +1,5 @@
 # Step 3: Test the First Network
-Before we install **Art-Ledger** on the first network we installed and brought up (then down) in the previous step its worth checking out this network in more detail using the `fabcar` sample supplied with the first network. If you want to do that follow the instructions [here](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html).
+Before we install **Art-Ledger** on the first network we installed and brought up (then down) in the previous step its worth checking out this network in more detail using the `fabcar` sample supplied with the first network. If you want to do that follow the instructions [here](https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html).
 
 These instructions take you through the steps of:
 * Installing the Clients and Launching the Network

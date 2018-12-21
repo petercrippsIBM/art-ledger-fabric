@@ -7,13 +7,15 @@ You're going to need these tools:
 
 Note: Some of the tooling you'll be using gets put in hidden folders.  On a Mac you can show/unshow hidden folders (when in Finder) using `CMD + Shift + .` or from a command prompt use `ls -a`.
 
-Next you need to install `Node`, `Docker` and `Go` (i.e. if you want to write chaincode using [`Go`](https://golang.org/)) if you haven’t already done so . To get the latest instructions for the most recent versions of Fabric follow the steps listed [here](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html#). At the end of this you should have the following installed (actual versions may vary):
+Next you need to install `Node`, `Docker` and `Go` (i.e. if you want to write chaincode using [`Go`](https://golang.org/)) if you haven’t already done so . To get the latest instructions for the most recent versions of Fabric follow the steps listed [here](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html#). 
+
+At the end of this you should have the following installed (actual versions may vary):
 * nvm - v0.33.0
 * node v8.9.1
 * node (lts) - v8.11.1 <== use this one!
 * npm - v5.8.0
-* docker - v18.06.1-ce, build e68fc7a
-* docker-compose - v1.22.0, build f46880f
+* docker - v18.09.0, build 4d60db4
+* docker-compose - v1.23.2, build 1110ad01
 * go - v1.11 Darwin/amd64
 
 To find the version of a program type `<program-name> --version` into the terminal.
