@@ -12,3 +12,5 @@ These steps describe everything you need to do, referring to the latest official
 * [Step 5: Install and Run Art-Ledger on IBM Cloud Starter Plan](docs/InstallRunIBMCloud.md)
 
 These instructions will attempt to always use the latest version of Hyperledger Fabric. Currently this is [Hyperledger Fabric v1.4](https://hyperledger-fabric.readthedocs.io/en/latest/whatsnew.html#).
+
+If you want to use Git to maintain your own branch you can find a strater to that in [Git Basics](docs/GitBasics.md).
